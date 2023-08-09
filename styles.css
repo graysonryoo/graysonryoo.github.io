@@ -112,12 +112,12 @@ text-align: center;
 
 .contact button{
   background-color: lightgray;
-  font-size: 1rem;
+  font-size: 0.9rem;
   border: none;
   outline: none;
-  padding: 10px 12px;
+  padding: 8px 10px;
   border-radius: 10px;
-  font-weight: 500;
+  font-weight: 350;
   transition: 3px;
   margin-right: 2px;
   color: black;
