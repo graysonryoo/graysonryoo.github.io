@@ -107,6 +107,7 @@ text-align: center;
 .contact{
   margin-top: 30px;
   text-align: center;
+  width: 100%;
 }
 
 .contact button{
@@ -118,7 +119,7 @@ text-align: center;
   border-radius: 10px;
   font-weight: 500;
   transition: 3px;
-  margin-right: 10px;
+  margin-right: 2px;
   color: black;
 }
 
